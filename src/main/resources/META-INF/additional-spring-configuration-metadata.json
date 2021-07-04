@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "STRIPE_PUBLIC_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'STRIPE_PUBLIC_KEY'"
+  },
+  {
+    "name": "STRIPE_SECRET_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'STRIPE_SECRET_KEY'"
+  },
+  {
+    "name": "STRIPE_PUBLIC_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'STRIPE_PUBLIC_KEY'"
+  },
+  {
+    "name": "STRIPE_PUBLIC_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'STRIPE_PUBLIC_KEY'"
+  },
+  {
+    "name": "STRIPE_PUBLIC_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'STRIPE_PUBLIC_KEY'"
+  },
+  {
+    "name": "STRIPE_PUBLIC_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'STRIPE_PUBLIC_KEY'"
+  },
+  {
+    "name": "stripe.keys.public",
+    "type": "java.lang.String",
+    "description": "A description for 'stripe.keys.public'"
+  },
+  {
+    "name": "stripe.keys.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'stripe.keys.secret'"
+  }
+]}
